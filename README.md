@@ -1,0 +1,2 @@
+# Powershell
+Powershellコピーコマンド作成用excelファイル
